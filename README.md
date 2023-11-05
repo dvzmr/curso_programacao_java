@@ -1,44 +1,58 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--config-env=<name>=<envvar>] <command> [<args>]
+# Java - Complete Course
 
-These are common Git commands used in various situations:
+![Java Logo](https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png)
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+This repository is dedicated to my study and progress in the "Java - Complete Course" on Udemy. Here, I will share my projects, notes, and any other relevant information related to the course.
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+## About the Course
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
+- **Title**: Java COMPLETE 2023 Object-Oriented Programming + Projects
+- **Instructor**: Nélio Alves
+- **Platform**: Udemy
+- **Course Link**: [Java - Complete Course on Udemy](https://www.udemy.com/course/java-curso-completo/)
 
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
+## My Progress
 
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
+Here, I will track my progress in the course, including completed topics, projects, and any other important milestones.
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+- [X] Section 1: Introduction
+- [X] Section 2: Programming Concepts
+- [X] Section 3: Introduction to the Java Language
+- [X] Section 4: Sequential Structure
+- [X] Section 5: Conditional Structure
+- [X] Section 6: Repetitive Structure
+- [X] Section 7: Other Basic Java Topics
+- [X] Section 8: Introduction to Object-Oriented Programming
+- [ ] Section 9: Constructors, the 'this' keyword, overload, encapsulation
+- [ ] Section 10: Memory behavior, arrays, lists
+- [ ] Section 11: Special topics in Java: date-time
+- [ ] Section 12: Bonus - Git and GitHub Leveling
+- [ ] Section 13: Enumerations, composition
+- [ ] Section 14: Inheritance and polymorphism
+- [ ] Section 15: Exception handling
+- [ ] Section 16: Project: Chess Game System
+- [ ] Section 17: Working with files
+- [ ] Section 18: Interfaces
+- [ ] Section 19: Generics, Set, Map
+- [ ] Section 20: Functional programming and lambda expressions
+- [ ] Section 21: Accessing databases with JDBC
+- [ ] Section 22: Java EE - Object-Relational Mapping with JPA/Hibernate
+- [ ] Section 23: Project: Restful API with Spring Boot and MongoDB database (web services + NoSQL)
+- [ ] Section 24: Graphic interface with JavaFX
+- [ ] Section 25: Bonus Section
+
+## Projects
+
+In this section, I will list the projects I completed during the course. Each project will have its own directory with details, source code, and additional information.
+
+1. [Project 1 - Chess Game](/projects/chess-game)
+   - Description: Chess game using Java.
+   - Status: Not started.
+
+2. [Project 2 - Restful API with Spring Boot](/projects/restful-api)
+   - Description: Restful API with Spring Boot + MongoDB database (web services + NoSQL).
+   - Status: Not started.
+
+## Author
+
+- [David Moura](https://github.com/dvzmr)
