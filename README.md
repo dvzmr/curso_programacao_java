@@ -18,11 +18,11 @@ Here, I will track my progress in the course, including completed topics, projec
 - ✅ Section 1: Introduction
 - ✅ Section 2: Programming Concepts
 - ✅ Section 3: Introduction to the Java Language
-- ✅ Section 4: Sequential Structure
-- ✅ Section 5: Conditional Structure
+- ✅ [Section 4: Sequential Structure](/src/secao4)
+- ✅ [Section 5: Conditional Structure](/src/secao5)
 - ✅ Section 6: Repetitive Structure
 - ✅ Section 7: Other Basic Java Topics
-- ✅ Section 8: Introduction to Object-Oriented Programming
+- ✅ [Section 8: Introduction to Object-Oriented Programming](/src/secao8Aplication) 
 - ⬜ Section 9: Constructors, the 'this' keyword, overload, encapsulation
 - ⬜ Section 10: Memory behavior, arrays, lists
 - ⬜ Section 11: Special topics in Java: date-time
