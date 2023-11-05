@@ -15,31 +15,31 @@ This repository is dedicated to my study and progress in the "Java - Complete Co
 
 Here, I will track my progress in the course, including completed topics, projects, and any other important milestones.
 
-- [X] Section 1: Introduction
-- [X] Section 2: Programming Concepts
-- [X] Section 3: Introduction to the Java Language
-- [X] Section 4: Sequential Structure
-- [X] Section 5: Conditional Structure
-- [X] Section 6: Repetitive Structure
-- [X] Section 7: Other Basic Java Topics
-- [X] Section 8: Introduction to Object-Oriented Programming
-- [ ] Section 9: Constructors, the 'this' keyword, overload, encapsulation
-- [ ] Section 10: Memory behavior, arrays, lists
-- [ ] Section 11: Special topics in Java: date-time
-- [ ] Section 12: Bonus - Git and GitHub Leveling
-- [ ] Section 13: Enumerations, composition
-- [ ] Section 14: Inheritance and polymorphism
-- [ ] Section 15: Exception handling
-- [ ] Section 16: Project: Chess Game System
-- [ ] Section 17: Working with files
-- [ ] Section 18: Interfaces
-- [ ] Section 19: Generics, Set, Map
-- [ ] Section 20: Functional programming and lambda expressions
-- [ ] Section 21: Accessing databases with JDBC
-- [ ] Section 22: Java EE - Object-Relational Mapping with JPA/Hibernate
-- [ ] Section 23: Project: Restful API with Spring Boot and MongoDB database (web services + NoSQL)
-- [ ] Section 24: Graphic interface with JavaFX
-- [ ] Section 25: Bonus Section
+- ✅ Section 1: Introduction
+- ✅ Section 2: Programming Concepts
+- ✅ Section 3: Introduction to the Java Language
+- ✅ Section 4: Sequential Structure
+- ✅ Section 5: Conditional Structure
+- ✅ Section 6: Repetitive Structure
+- ✅ Section 7: Other Basic Java Topics
+- ✅ Section 8: Introduction to Object-Oriented Programming
+- ⬜ Section 9: Constructors, the 'this' keyword, overload, encapsulation
+- ⬜ Section 10: Memory behavior, arrays, lists
+- ⬜ Section 11: Special topics in Java: date-time
+- ⬜ Section 12: Bonus - Git and GitHub Leveling
+- ⬜ Section 13: Enumerations, composition
+- ⬜ Section 14: Inheritance and polymorphism
+- ⬜ Section 15: Exception handling
+- ⬜ Section 16: Project: Chess Game System
+- ⬜ Section 17: Working with files
+- ⬜ Section 18: Interfaces
+- ⬜ Section 19: Generics, Set, Map
+- ⬜ Section 20: Functional programming and lambda expressions
+- ⬜ Section 21: Accessing databases with JDBC
+- ⬜ Section 22: Java EE - Object-Relational Mapping with JPA/Hibernate
+- ⬜ Section 23: Project: Restful API with Spring Boot and MongoDB database (web services + NoSQL)
+- ⬜ Section 24: Graphic interface with JavaFX
+- ⬜ Section 25: Bonus Section
 
 ## Projects
 
